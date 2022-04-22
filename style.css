@@ -4,7 +4,8 @@ body{
     font-size: 16px;
     font-weight: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+width: 100%;
+margin: 0px 0px 0px 4px;
 }
 .amg{
     width: 200px;
@@ -13,8 +14,100 @@ body{
 
 }
 
+.btm{
+    color: white;
+    padding: 15px 20px;
+    background: black;
+    border-radius: 40%;
+
+}
 .info p {
 color: #86898f;
 margin: 0;
 font-style: italic;
+
 }
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.card{
+
+   
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+
+}
+
+.yello{
+    background: #fff9dc;
+    
+ 
+}
+.green{
+    background: #e5ffe7;
+}
+
+.list{
+    padding: 5px;
+  
+}
+.list li{
+    color: #86898f;
+    margin-bottom: 10px;
+    list-style: none;
+  
+}
+
+
+.table{
+    width: 100%;
+}
+.table td{
+    padding-bottom: 10px ;
+}
+
+.xz{
+    text-align: center;
+}
+
+.socset li{
+   list-style: none;
+  
+}
+.card p{
+    text-align: center;
+    
+}
+ .bg{
+     background: rgb(229, 241, 196);
+     padding: 5px;
+     box-sizing: border-box;
+     border-bottom: 1px solid #ccc;
+
+ }
+
+ .all{
+  font-size: 17px;
+ }
+
+ .btm{
+     background: black;
+     color: white;
+     padding: 15px 20px;
+     border-radius: 20%;
+     cursor: pointer;
+
+ }
+
+ .btm:hover{
+     opacity: 0.9;
+ }
+ 
